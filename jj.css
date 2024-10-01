@@ -1,0 +1,11 @@
+body {
+    background: black;
+}
+
+.photo {
+    margin: -10px -10px;
+    height: 101%;
+    width: 101%;
+    position: absolute;
+
+}
